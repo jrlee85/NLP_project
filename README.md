@@ -1,8 +1,8 @@
 # NLP_project
 
-Personal project based on the Disaster Tweets Kaggle Competition. The task was to use natural language processing techniques to perform binary classification on tweets.
+**Personal project based on the Disaster Tweets Kaggle Competition.**
 
-I began with some exploratory analysis and simple visualisations to get a better understanding of the data. I then used both Bag of Words and Term Frequency-Inverse Document Frequency to transform the tweets into vectors that could be used with different machine learning models.
+The task was to use natural language processing techniques to perform binary classification on tweets. I began with some exploratory analysis and simple visualisations to get a better understanding of the data. I then used both Bag of Words and Term Frequency-Inverse Document Frequency to transform the tweets into vectors that could be used with different machine learning models.
 
 I tested Linear (Ridge) Classification, Logitsic Regression (with stochastic gradient descent), Support Vector Classification and Multinomial Naive Bayes Classification. I also experimented with using unigrams and bigrams.
 
